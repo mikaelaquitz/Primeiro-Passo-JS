@@ -1,0 +1,22 @@
+#E_apagada{
+    background-color: rgb(59, 57, 57);
+}
+#E_acessa{
+    background-color:rgb(247, 240, 231);
+}
+div{
+    height: 50vh;
+    width: 100vw;
+}
+#lampada{
+
+    display: block;
+    margin: 0 auto;
+    cursor: pointer;
+    width: 140px;
+    height: 200px;
+}
+label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 0;
+}
